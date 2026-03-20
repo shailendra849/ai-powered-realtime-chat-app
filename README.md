@@ -1,6 +1,6 @@
 # Project Name
 
-One On One Chat application | Spring boot & WebSocket | By Alibou
+AI Powered-realtime-chat-App | Spring boot & WebSocket | By shailendra
 
 ## Overview
 
